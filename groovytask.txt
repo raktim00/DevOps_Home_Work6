@@ -51,7 +51,7 @@ fi''')
     }
   publishers {
     extendedEmail {
-      recipientList('raktimmidya00@gmail.com')
+      recipientList('helloworld@gmail.com')
       defaultSubject('Failed build')
       defaultContent('The build was failed')
       contentType('text/html')
